@@ -26,3 +26,10 @@
     - https://visualgo.net/en/graphds
 
     - Graphs are built over other types of data structures.
+
+## Pros and Cons
+
+    - Pros: Relationships
+    - Cons: complex -> Scaling is hard
+
+    To build DB in Graph: "https://neo4j.com/"
